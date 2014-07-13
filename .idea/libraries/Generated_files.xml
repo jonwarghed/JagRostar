@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-jshint/node_modules/jshint/node_modules/cli/examples/static.js" />
+        <item url="file://$PROJECT_DIR$/gulp/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/transform.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_foo.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/x.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_bar.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffeeify/main.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/gulp/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-jshint/node_modules/jshint/node_modules/cli/examples/static.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/transform.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_foo.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/x.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/test/fixtures/trans_bar.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffee_bin/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/test/coffeeify/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/umd/node_modules/rfile/node_modules/resolve/test/resolver/cup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/http-browserify/node_modules/Base64/test/base64.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-browserify/node_modules/browserify/node_modules/module-deps/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
